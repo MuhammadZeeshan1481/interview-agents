@@ -1,4 +1,10 @@
-# .gitignore
-.env
+# Python
 __pycache__/
 *.pyc
+
+# Virtual Env
+.venv/
+venv/
+
+# Environment
+.env
